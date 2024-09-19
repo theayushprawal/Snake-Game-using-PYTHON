@@ -67,3 +67,5 @@ while key != 27:
     
 curses.endwin()
 print("\nScore - " + str(score))
+
+# so this is how we make a simple snake game
